@@ -10,3 +10,4 @@
 ## 📚 JavaScript
 
 🔖 [JavaScript Practice Exercises](https://snipcart.com/blog/javascript-practice-exercises) - JavaScript Practice Exercises for All Levels
+🔖 [JavaScript Hero](https://www.jshero.net/en/home.html) - Tutorial with interactive exercises
